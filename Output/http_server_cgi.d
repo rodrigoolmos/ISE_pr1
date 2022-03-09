@@ -1,0 +1,16 @@
+.\output\http_server_cgi.o: HTTP_Server_CGI.c
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.13.0\Network_v6\Include\rl_net.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\http_server_cgi.o: .\RTE\_LPC1768_Flash\RTE_Components.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.13.0\Network_v6\Include\rl_net_lib.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Driver\Include\Driver_USART.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Driver\Include\Driver_Common.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Driver\Include\Driver_ETH_MAC.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Driver\Include\Driver_ETH.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Driver\Include\Driver_ETH_PHY.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.13.0\Network_v6\Include\net_modem.h
+.\output\http_server_cgi.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.13.0\Board\Board_LED.h
